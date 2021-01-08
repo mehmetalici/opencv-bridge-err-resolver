@@ -1,0 +1,6 @@
+devel_space: /home/malici/catkin_workspace/devel
+install: true
+install_space: /home/malici/catkin_workspace/install
+profile: default
+source_space: /home/malici/catkin_workspace/src
+workspace: /home/malici/catkin_workspace
